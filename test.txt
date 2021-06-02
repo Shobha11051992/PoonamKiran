@@ -1,1 +1,2 @@
 git add and git rm are opposite to commands
+git remote add origin only use first time 
