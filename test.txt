@@ -1,0 +1,1 @@
+git add and git rm are opposite to commands
